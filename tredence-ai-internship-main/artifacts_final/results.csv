@@ -1,0 +1,4 @@
+lambda_value,test_accuracy,sparsity_percent,pruned_weights,total_weights,model_path,plot_path
+1.0,52.76,2.0818683430843086,35527,1706496,artifacts_final\models\model_lambda_1.pth,artifacts_final\plots\gate_distribution_lambda_1.png
+5.0,54.96,12.565221365886588,214425,1706496,artifacts_final\models\model_lambda_5.pth,artifacts_final\plots\gate_distribution_lambda_5.png
+10.0,54.06,33.27660891089109,567864,1706496,artifacts_final\models\model_lambda_10.pth,artifacts_final\plots\gate_distribution_lambda_10.png

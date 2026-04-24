@@ -1,0 +1,29 @@
+[
+  {
+    "lambda_value": 1.0,
+    "test_accuracy": 52.76,
+    "sparsity_percent": 2.0818683430843086,
+    "pruned_weights": 35527,
+    "total_weights": 1706496,
+    "model_path": "artifacts_final\\models\\model_lambda_1.pth",
+    "plot_path": "artifacts_final\\plots\\gate_distribution_lambda_1.png"
+  },
+  {
+    "lambda_value": 5.0,
+    "test_accuracy": 54.96,
+    "sparsity_percent": 12.565221365886588,
+    "pruned_weights": 214425,
+    "total_weights": 1706496,
+    "model_path": "artifacts_final\\models\\model_lambda_5.pth",
+    "plot_path": "artifacts_final\\plots\\gate_distribution_lambda_5.png"
+  },
+  {
+    "lambda_value": 10.0,
+    "test_accuracy": 54.06,
+    "sparsity_percent": 33.27660891089109,
+    "pruned_weights": 567864,
+    "total_weights": 1706496,
+    "model_path": "artifacts_final\\models\\model_lambda_10.pth",
+    "plot_path": "artifacts_final\\plots\\gate_distribution_lambda_10.png"
+  }
+]

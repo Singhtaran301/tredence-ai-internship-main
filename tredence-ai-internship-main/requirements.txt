@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+numpy
+fastapi
+uvicorn
+python-multipart
+Pillow

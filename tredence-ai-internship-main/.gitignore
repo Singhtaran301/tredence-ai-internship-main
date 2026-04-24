@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+data/
+venv/
+.env
+plots/*.png
+*.pth
+artifacts_check/
+artifacts_lambda_sweep/
+artifacts_lambda_0p1_3ep/
+artifacts_tuned_check/
+artifacts_lambda5_5ep/
+artifacts_lambda10_5ep/
+artifacts_lambda5_5ep_temp01/
+!artifacts_final/
+!artifacts_final/**
+!artifacts_final/models/*.pth
